@@ -17,5 +17,5 @@ This project implements the classic Caesar Cipher encryption and decryption algo
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/manilreddy1/caesar-cipher.git
+   git clone https://github.com/manilreddy1/StartHere_CS_01.git
 
